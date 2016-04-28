@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dethraciaprovin00kalogoog_0005.png"; bbox 0 0 3200 5217; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 501 2255 2167 2344">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 501 2255 2167 2344">
+     <span class='ocr_line' id='line_1_1' title="bbox 501 2255 2167 2344; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 501 2258 722 2342; x_wconf 82' lang='grc' dir='ltr'><em>ΤΩΙ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 775 2256 1157 2342; x_wconf 83' lang='grc' dir='ltr'><em>ΦΙΛΤΑ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1173 2255 1391 2340; x_wconf 71' lang='lat' dir='ltr'><em>Tm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1442 2260 1616 2340; x_wconf 85' lang='lat' dir='ltr'><em>Mo</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1635 2260 1724 2340; x_wconf 91' lang='lat' dir='ltr'><strong><em>Y</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1769 2260 1936 2343; x_wconf 89' lang='grc' dir='ltr'><em>ΠΑ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1952 2261 2167 2344; x_wconf 88' lang='grc' dir='ltr'><em>ΤΡΙ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 358 2525 2320 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 358 2525 2320 2585">
+     <span class='ocr_line' id='line_1_2' title="bbox 358 2525 2320 2585; baseline -0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 358 2528 541 2584; x_wconf 89' lang='grc' dir='ltr'><em>ΤΗΝ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 576 2526 1025 2584; x_wconf 91' lang='grc' dir='ltr'><em>ΑΠΑΡΧΗΝ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1068 2526 1429 2583; x_wconf 83' lang='grc' dir='ltr'><em>ΤΑΥΤΗΝ</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1473 2525 1648 2582; x_wconf 73' lang='grc' dir='ltr'><em>ΤΩΝ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1682 2526 2095 2584; x_wconf 72' lang='grc' dir='ltr'><em>ΣΠΟΥΔΩΝ</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2129 2527 2320 2585; x_wconf 85' lang='grc' dir='ltr'><em>ΜΟῩ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 833 2748 1841 2802">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 833 2748 1841 2802">
+     <span class='ocr_line' id='line_1_3' title="bbox 833 2748 1841 2802; baseline 0 -1"><span class='ocrx_word' id='word_1_14' title='bbox 833 2748 1372 2802; x_wconf 81' lang='grc' dir='ltr'><em>ΦΙΛΟΣΊὈΡΓΩΣ</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1399 2749 1546 2802; x_wconf 82' lang='lat' dir='ltr'><em>ANA</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1558 2748 1841 2801; x_wconf 82' lang='grc' dir='ltr'><em>ΤΙΘΗΜΙ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
